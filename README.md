@@ -1,2 +1,9 @@
 # HHCO-Employee-Management-System
-This repository contains UML diagrams for the HHCO Employee Management System, including ER, class, sequence, and use case diagrams. These diagrams outline the system's architecture, relationships, and interactions, providing a clear blueprint for development and understanding.
+
+This repository contains the comprehensive set of UML diagrams for the HHCO Employee Management System. It includes:
+
+ER Diagram: Illustrating the relationships between entities in the system.
+Class Diagram: Defining the structure of the system by showing classes, attributes, and relationships.
+Sequence Diagram: Detailing the flow of messages and interactions between system components.
+Use Case Diagram: Representing the key use cases and actors involved in the system.
+These diagrams provide a blueprint for designing and understanding the architecture of the HHCO Employee Management System.
